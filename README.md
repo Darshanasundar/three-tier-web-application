@@ -1,7 +1,5 @@
 # three-tier-web-application
 
-# AWS Three-Tier Web Application using EC2 and MySQL
-
 ## Overview
 
 This project implements a three-tier web application architecture on AWS using
@@ -152,6 +150,10 @@ To avoid AWS charges, resources were deleted manually in the AWS Console:
 - Containerize application using Docker and Kubernetes.
 
 ---
+
+## 📄 Project Documentation
+
+- 📘 Detailed Report: [Project Report](docs/three-tier-web-application-report.pdf)
 
 ## Author
 
