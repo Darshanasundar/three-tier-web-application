@@ -1,0 +1,18 @@
+# AWS / Credentials
+.aws/
+*.pem
+*.key
+.env
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+# Temp
+*.zip
+*.tar.gz
